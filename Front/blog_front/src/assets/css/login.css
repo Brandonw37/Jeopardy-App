@@ -1,0 +1,48 @@
+.LoginFull {
+    display:inline-block;
+    width: 100%;
+    margin:0 auto;
+    height: 100%;
+    background-color: #ffffffc2;
+    padding: 40px;
+    opacity: 1;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+}
+h1 {
+    font-style: Arial;
+    color: black;
+    font-size: 60px;
+}
+.home {
+    font-size: 24px;
+    text-decoration: none;
+}
+.email_input {
+    display:block;
+    box-shadow: 0px 0px 8px black;
+    margin:0 auto;
+    width: 300px;
+    position: relative;
+    padding:10px;
+}
+.password_input {
+    display:block;
+    box-shadow: 0px 0px 8px black;
+    margin:0 auto;
+    width: 300px;   
+    position: relative;
+    top: 10px;
+    padding:10px;
+}
+.results {
+    display: inline;
+    font-size: 20px;
+}
+.SignUp {
+    vertical-align: middle;
+    display:inline-block;
+    margin: auto ;
+    font-size: 18px;
+    border-radius: 8px 8px 8px 8px;
+}
